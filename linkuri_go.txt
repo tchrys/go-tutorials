@@ -1,0 +1,15 @@
+Google I/O 2012 - Go concurrency patterns
+https://www.youtube.com/watch?v=f6kdp27TYZs
+
+Google I/O 2013 - Advanced Go concurrency patterns
+https://www.youtube.com/watch?v=QDDwwePbDtw
+
+https://golang.org/doc/codewalk/sharemem/
+https://golang.org/doc/codewalk/functions/
+https://golang.org/doc/code
+https://golang.org/doc/
+
+
+Web app:
+https://golang.org/doc/articles/wiki/
+
